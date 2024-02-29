@@ -12,13 +12,14 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Nome completo do aluno 1
 * Nome completo do aluno 2
-* Vitor Casimiro Madureira Souza
-* Gustavo Costa Negro Souza
+* João Paulo Candido Faria Vieira
 * Raphael Silva Ramalho
+* Gustavo Costa Negro Souza
+* Vitor Casimiro Madureira Souza
 
 ## Orientador
 
-* Nome completo do professor 1
+* Michelle Hanne Soares de Andrade
 
 # Planejamento
 
