@@ -12,7 +12,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Nome completo do aluno 1
 * Nome completo do aluno 2
-* João Paulo Candido Faria Vieiraa
+* João Paulo Candido Faria Vieira
 * Raphael Silva Ramalho
 * Gustavo Costa Negro Souza
 * Vitor Casimiro Madureira Souza
