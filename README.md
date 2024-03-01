@@ -1,5 +1,9 @@
 # MusicMatch
 
+
+## Justificativa
+*O que levou a escolha desta aplicação foi principalmente a importância de gerar visibilidade para artistas musicais talentosos que não possuem devida atenção, apresentando seus trabalhos e canções de forma direta a ouvintes de todos os ramos da musica que tenham despertado interesse em experimentar novos cantores relacionados ao seu gosto musical.
+
 `CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Projeto - Aplicações Web`
