@@ -43,12 +43,12 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+O público-alvo é composto por pessoas que apreciam a música em suas diversas formas, indo desde ouvintes até artistas independentes que buscam uma oportunidade de se destacar. Essa plataforma visa atingir amantes da música que estão dispostos a experimentar novas sonoridades, oferecendo-lhes uma alternativa para explorar e descobrir artistas promissores. Do outro lado, queremos atingir também músicos "indie", ou seja, que não possuem contrato com gravadoras para que possam divulgar seus trabalhos. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+Como podemos ver no gráfico abaixo, o mercado musical é bem distribuido entre várias idades, indo desde adolescentes até idosos. Entretanto quando fazemos uma análise mais profunda em cada gênero concluimos que a maior fatia de ouvintes de indie/alternative é composta por pessoas de 20-24 anos. Tendo isso em vista, nosso foco principal é dialogar com essa faixa etária.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/656f93f1-8b6d-45a2-81b4-841227c5ada9)
+
+
+fonte: https://www.statista.com/statistics/253915/favorite-music-genres-in-the-us/
+
