@@ -32,9 +32,9 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
->**O que levou a escolha desta aplicação foi principalmente a importância de gerar visibilidade para artistas musicais obstruídos, devido a falta de recursos financeiros e relações de grande importância que os permitiriam ser alavancados para a grande mídia. Isso aconteceria a partir de apresentações de seus trabalhos e canções de forma direta a ouvintes de todos os ramos da musica que tenham despertado interesse em experimentar novos cantores relacionados ao seu gosto musical.
+>O que levou a escolha desta aplicação foi principalmente a importância de gerar visibilidade para artistas musicais obstruídos, devido a falta de recursos financeiros e relações de grande importância que os permitiriam ser alavancados para a grande mídia. Isso aconteceria a partir de apresentações de seus trabalhos e canções de forma direta a ouvintes de todos os ramos da musica que tenham despertado interesse em experimentar novos cantores relacionados ao seu gosto musical.
 
->**As motivações para um cliente procurar a nossa plataforma são por exemplo, explorar novas músicas e artistas que, através do nosso site o ouvinte conseguiria diversificar suas escolhas dentro do seu próprio gosto.
+>As motivações para um cliente procurar a nossa plataforma são por exemplo, explorar novas músicas e artistas que, através do nosso site o ouvinte conseguiria diversificar suas escolhas dentro do seu próprio gosto.
 
 
 ## Público-Alvo
