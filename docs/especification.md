@@ -58,7 +58,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir criação de preferências de ritmos musicais | ALTA |  
 |RF-001| Permitir pesquisa de artistas e músicas | ALTA |  
 |RF-001| Visualizar o perfil do artista contendo seus dados e sua lista de músicas | ALTA | 
-|RF-001| Disponibilizar link para execução das músicas | ALTA |
+|RF-001| Disponibilizar link para execução das músicas(Youtube, etc) | ALTA |
 |RF-001| Permitir um forum de contexto referênte ao artista para socialização dos usuários(Comentários ao final da página do artista) | ALTA | 
 |RF-001| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | ALTA |  
 |RF-001| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários(Os 10 maiores) | ALTA |  
@@ -77,9 +77,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| Página deve ser desenvolvida usando HTML, CSS e Javascript | ALTA | 
 |RNF-003| A página deve ter modo noturno/escuro | ALTA | 
 |RNF-003| Disponibilidade em 90% do tempo | ALTA | 
-
 |RNF-005| Ser responsivo - Browser, Smartphone ou Tablet | MÉDIA | 
-
 |RNF-006| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
 
