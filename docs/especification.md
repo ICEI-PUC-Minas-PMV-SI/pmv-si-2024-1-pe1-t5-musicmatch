@@ -50,35 +50,31 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
+
 ### Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
 |RF-001| Permitir cadastro e login do usuário | ALTA |  
-|RF-001| Permitir criação de preferências de ritmos musicais | ALTA |  
-|RF-001| Permitir pesquisa de artistas e músicas | ALTA |  
-|RF-001| Visualizar o perfil do artista contendo seus dados e sua lista de músicas | ALTA | 
-|RF-001| Disponibilizar link para execução das músicas(Youtube, etc) | ALTA |
-|RF-001| Permitir um forum de contexto referênte ao artista para socialização dos usuários(Comentários ao final da página do artista) | ALTA | 
-|RF-001| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | ALTA |  
-|RF-001| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários(Os 10 maiores) | ALTA |  
-|RF-001| Contabilizar os acessos as páginas dos artistas | ALTA |  
-|RF-001| Exibir na página inicial os artistas mais visualizados do momento(de forma a dar visibilidade a todos de todos os ritmos musicais) | ALTA |  
-
-
-
-
+|RF-002| Permitir criação de preferências de ritmos musicais dentro do cadastro do usuário | ALTA |  
+|RF-003| Permitir pesquisa de artistas e músicas | ALTA |  
+|RF-004| Visualizar o perfil do artista contendo seus dados e sua lista de músicas | ALTA | 
+|RF-005| Disponibilizar link para execução das músicas(Youtube, etc) | ALTA |
+|RF-006| Permitir um forum de contexto referênte ao artista para socialização dos usuários(Comentários ao final da página do artista) | MÉDIA | 
+|RF-007| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | MÉDIA |  
+|RF-008| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários(Os 10 maiores) | MÉDIA |  
+|RF-009| Exibir na página inicial os artistas mais visualizados do momento(de forma a dar visibilidade a todos de todos os ritmos musicais) | MÉDIA |  
+|RF-010| Contabilizar os acessos as páginas dos artistas | BAIXA |  
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Página deve ser desenvolvida usando HTML, CSS e Javascript | ALTA | 
-|RNF-003| A página deve ter modo noturno/escuro | ALTA | 
-|RNF-003| Disponibilidade em 90% do tempo | ALTA | 
-|RNF-005| Ser responsivo - Browser, Smartphone ou Tablet | MÉDIA | 
-|RNF-006| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| A página deve ter modo noturno/escuro | ALTA | 
+|RNF-002| Disponibilidade em 90% do tempo | ALTA | 
+|RNF-003| Ser responsivo - Browser, Smartphone ou Tablet | MÉDIA | 
+|RNF-004| A aplicação deve processar requisições do usuário em no máximo 3s | BAIXA | 
 
 
 
@@ -104,12 +100,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-|02| Não pode ser desenvolvido um módulo de backend        |
-|02| Não pode ser desenvolvido um módulo de backend        |
-|02| Não pode ser desenvolvido um módulo de backend        |
-|02| Não pode ser desenvolvido um módulo de backend        |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|02| Não restringir número de usuários simultâneos ao site |
+|02| Ser desenvolvido em HMTL, CSS e JavaScrip             |
+
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
