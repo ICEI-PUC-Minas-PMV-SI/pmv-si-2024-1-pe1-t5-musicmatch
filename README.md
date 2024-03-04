@@ -2,8 +2,9 @@
 
 
 ## Justificativa
-O que levou a escolha desta aplicação foi principalmente a importância de gerar visibilidade para artistas musicais obstruídos, devido a falta de recursos financeiros e relações de grande importância que os permitiriam ser alavancados para a grande mídia. Isso aconteceria a partir de apresentações de seus trabalhos e canções de forma direta a ouvintes de todos os ramos da musica que tenham despertado interesse em experimentar novos cantores relacionados ao seu gosto musical.
-As motivações para um cliente procurar a nossa plataforma são por exemplo, explorar novas músicas e artistas que, através do nosso site o ouvinte conseguiria diversificar suas escolhas dentro do seu próprio gosto.
+A escolha desta aplicação se deu principalmente em virtude da importância de gerar visibilidade para artistas musicais prejudicados pela falta de recursos financeiros e pela ausência de conexões importantes que os possibilitariam serem promovidos na grande mídia. Isso ocorreria por meio da apresentação de seus trabalhos e canções diretamente aos ouvintes de diversos gêneros musicais, que tenham interesse em descobrir novos cantores dentro de sua preferência musical.
+
+As motivações para um cliente acessar nossa plataforma incluem, por exemplo, a exploração de novas músicas e artistas, possibilitando ao ouvinte diversificar suas escolhas dentro de seu próprio gosto musical por meio de nosso site.
 
 `CURSO: Sistemas de Informação`
 
