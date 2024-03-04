@@ -55,7 +55,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
 |RF-001| Permitir cadastro e login do usuário | ALTA |  
-|RF-001| Permitir login do usuário | ALTA |  
 |RF-001| Permitir criação de preferências de ritmos musicais | ALTA |  
 |RF-001| Permitir pesquisa de artistas e músicas | ALTA |  
 |RF-001| Visualizar o perfil do artista contendo seus dados e sua lista de músicas | ALTA | 
@@ -75,10 +74,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Usabiidade facilitada | ALTA | 
-|RNF-002|  | ALTA | 
+|RNF-001| Página deve ser desenvolvida usando HTML, CSS e Javascript | ALTA | 
 |RNF-003| A página deve ter modo noturno/escuro | ALTA | 
-|RNF-004| A página deve ser desenvolvida usando HTML, CSS e Javascript | ALTA | 
+|RNF-003| Disponibilidade em 90% do tempo | ALTA | 
 
 |RNF-005| O site deve ser multiplataforma - Browser, Smartphone ou Tablet | MÉDIA | 
 
