@@ -78,7 +78,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| A página deve ter modo noturno/escuro | ALTA | 
 |RNF-003| Disponibilidade em 90% do tempo | ALTA | 
 
-|RNF-005| O site deve ser multiplataforma - Browser, Smartphone ou Tablet | MÉDIA | 
+|RNF-005| Ser responsivo - Browser, Smartphone ou Tablet | MÉDIA | 
 
 |RNF-006| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
