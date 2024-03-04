@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Nome completo do aluno 1
-* Nome completo do aluno 2
+* Alexandre Gabriel Pereira de Oliveira 
 * João Paulo Candido Faria Vieira
 * Raphael Silva Ramalho
 * Gustavo Costa Negro Souza
