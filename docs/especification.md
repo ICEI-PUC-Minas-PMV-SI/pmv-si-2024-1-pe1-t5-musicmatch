@@ -30,6 +30,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
@@ -48,16 +54,37 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
+|RF-001| Permitir cadastro e login do usuário | ALTA |  
+|RF-001| Permitir login do usuário | ALTA |  
+|RF-001| Permitir criação de preferências de ritmos musicais | ALTA |  
+|RF-001| Permitir pesquisa de artistas e músicas | ALTA |  
+|RF-001| Visualizar o perfil do artista contendo seus dados e sua lista de músicas | ALTA | 
+|RF-001| Disponibilizar link para execução das músicas | ALTA |
+|RF-001| Permitir um forum de contexto referênte ao artista para socialização dos usuários(Comentários ao final da página do artista) | ALTA | 
+|RF-001| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | ALTA |  
+|RF-001| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários(Os 10 maiores) | ALTA |  
+|RF-001| Contabilizar os acessos as páginas dos artistas | ALTA |  
+|RF-001| Exibir na página inicial os artistas mais visualizados do momento(de forma a dar visibilidade a todos de todos os ritmos musicais) | ALTA |  
+
+
+
+
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Usabiidade facilitada | ALTA | 
+|RNF-002|  | ALTA | 
+|RNF-003| A página deve ter modo noturno/escuro | ALTA | 
+|RNF-004| A página deve ser desenvolvida usando HTML, CSS e Javascript | ALTA | 
+
+|RNF-005| O site deve ser multiplataforma - Browser, Smartphone ou Tablet | MÉDIA | 
+
+|RNF-006| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -81,6 +108,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
+|02| Não pode ser desenvolvido um módulo de backend        |
+|02| Não pode ser desenvolvido um módulo de backend        |
+|02| Não pode ser desenvolvido um módulo de backend        |
+|02| Não pode ser desenvolvido um módulo de backend        |
 |02| Não pode ser desenvolvido um módulo de backend        |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
