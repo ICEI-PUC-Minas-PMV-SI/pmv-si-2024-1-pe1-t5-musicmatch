@@ -60,7 +60,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-003| Permitir pesquisa de artistas e músicas | ALTA |  
 |RF-004| Visualizar o perfil do artista contendo seus dados e sua lista de músicas | ALTA | 
 |RF-005| Disponibilizar link para execução das músicas(Youtube, etc) | ALTA |
-|RF-006| Permitir um barra de comentários de contexto referênte ao artista para socialização dos usuários(Comentários ao final da página do artista) | MÉDIA | 
+|RF-006| Permitir uma barra de comentários referênte ao artista para socialização dos usuários(Comentários ao final da página do artista) | MÉDIA | 
 |RF-007| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | MÉDIA |  
 |RF-008| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários(Os 10 maiores) | MÉDIA |  
 |RF-009| Exibir na página inicial os artistas mais visualizados do momento(de forma a dar visibilidade a todos de todos os ritmos musicais) | MÉDIA |  
