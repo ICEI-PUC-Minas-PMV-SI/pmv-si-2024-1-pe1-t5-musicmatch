@@ -1,12 +1,10 @@
 # Introdução
 
-Imagine que você deseja apresentar este projeto para investidores que deverão decidir se investem ou não no desenvolvimento da sua ferramenta.
+De acordo com o famoso compositor Ludwig Van Beethoven, que disse: “Música é uma revelação mais profunda que qualquer Filosofia”, essa afirmação continua relevante. A indústria musical passou por transformações significativas ao longo das décadas, impulsionadas principalmente pela tecnologia. A facilidade ou praticidade que a tecnologia desencadeou nos fizeram sair dos discos de vinil e migrar para plataformas de streaming, mudando assim a forma como consumimos música e permitindo o acesso a qualquer hora e em qualquer lugar.
 
-A **Introdução** consiste das etapas: *Contextualização -- Definição do problema -- Definição dos Objetivos -- Justificativa*, e tem como função situar o seu trabalho dentro de um contexto de mercado e mostrar a importância da sua proposta para resolver a dor de um usuário.
+As plataformas de streaming musical têm proporcionado aos ouvintes a facilidade de encontrar tendências que atendem aos seus gostos pessoais. No entanto, o mercado ainda é muito limitado para artistas de pequeno porte, onde não existe tanto reconhecimento ou alcance. Analisando essa questão, foi criada a aplicação MusicMatch para alavancar e aumentar o alcance de músicas e artistas ainda não conhecidos. O MusicMatch é uma aplicação web que filtra os gostos musicais de cada usuário e os encaminha para cantores e/ou bandas de acordo com suas preferências pessoais. A plataforma prioriza dar visibilidade a artistas que estão no início de suas carreiras, permitindo que os usuários descubram novas músicas e artistas fora de seu conhecimento usual.
 
-A Contextualização deve situar sem projeto em um determinado contexto de mercado, a fim de fornecer informações adicionais que possam ajudar a entender melhor o assunto que você irá abordar. Serve também para definir a relevância do seu assunto, uma vez que mostra o tamanho do mercado em que se está inserido. Ela pode envolver a análise de vários aspectos, como o ambiente histórico, cultural, político e social em que o problema a ser atacado surgiu.
-
-Escreva de 2 a 3 parágrafos para contetualizar o seu projeto.
+Em resumo, a tecnologia e as plataformas de streaming estão moldando o cenário musical de maneira profunda e variada. O MusicMatch é um exemplo de como a inovação pode abrir portas para artistas em progresso, tornando a experiência musical ainda mais rica e acessível para todos.
 
 ## Problema
 
