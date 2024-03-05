@@ -23,9 +23,8 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O principal objetivo do projeto Match musicas é desenvolver um software que faça  com que o usuário encontre artistas que estão fora das grandes mídias utilizando como base o seu gosto musical . Além disso, temos o propósito de dar visiilidade para estes artistas, colocando o link das suas músicas na nossa plataforma, gerar uma interação entre os usuários como comentários e avaliações sobre as músicas ouvidas , conhecer o gosto musical do público para recomendar determinados artistas para eles usando o questionário fornecido na sua etapa de cadastro na plataforma mostrando também os proximos eventos daquela banda.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
