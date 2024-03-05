@@ -8,19 +8,36 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+#### Nome: Ana Carolina
+#### Idade: 22 anos
+#### Profissão: Estudante 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+Ana é uma jovem apaixonada por música, especialmente por artistas independentes e novos talentos. Ela dedica parte do seu tempo livre explorando plataformas online em busca de novas descobertas musicais. Seu gosto musical é eclético, abrangendo diversos gêneros e ela adora a ideia de encontrar músicos menos conhecidos e dar-lhes suporte.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Frequentemente visita shows de bandas locais e é até conhecida por algumas delas. Ana também é uma usuária ativa nas redes sociais, onde compartilha suas descobertas musicais em comunidades relacionadas à música, onde pode discutir com outros usuários.
+
+Ela busca uma plataforma onde tenha a possibilidade de descobrir novos artistas, expandir seu repertório musical e contribuir para a promoção de talentos emergentes. Ela também valoriza o fator social e gostaria de uma plataforma onde possa discutir com outras pessoas: interagir com outros usuários, deixar comentários e avaliações, além de participar do ranking de artistas mais bem avaliados são features importantes que Ana leva em consideração.
+
+#### Nome: Igor Castelo
+#### Idade: 26 anos
+#### Profissão: Músico freelancer
+
+Igor é um jovem multi-instrumentista e por ser do meio musical, está sempre em busca de outros músicos para expandir sua rede e criar novos projetos. Seu gosto por música vai além do consumo e se estende à produção, composição e experimentação de diferentes estilos. Igor não faz parte de nenhuma banda fixa e geralmente preenche espaços temporários em outras bandas, sendo considerado um "músico de sessão" (ou músico freelancer). 
+
+Ele escolheu seguir a carreira de freelancer para ter a liberdade de participar em diferentes projetos e colaborar com uma variedade de artistas. Ao longo dos anos ele acumulou experiência com vários ritmos e instrumentos, tendo contribuindo em gravações de estúdio, shows e sendo membro temporário de algumas bandas. Igor tem o sonho de construir uma carreira solo mas encontra dificuldades em divulgar seus projetos pessoais.
+
+Assim, ele busca uma plataforma que não apenas o conecte com outros artistas, mas que também o ajude a promover sua carreira solo e receba feedback dos seus ouvintes. A facilidade de compartilhar amostras de seu trabalho, criar um perfil atrativo e conectar-se com outros músicos é fundamental para ele na hora de escolher um sistema.
+
+#### Nome: Evelyn Souza
+#### Idade: 24 anos
+#### Profissão: UI/UX designer e estudante de sistemas de informação
+
+Evelyn leva uma vida agitada, dividindo-se entre o trabalho em uma big tech durante o dia e os estudos na graduação à noite. Sua agenda é repleta de compromissos mas ela sempre encontra tempo para se dedicar às suas paixões, especialmente à música. Em meio à ônibus e metrôs lotados, ela utiliza a música como uma forma de relaxar e se desconectar do estresse diário. Mesmo com sua rotina movimentada, ela procura constantemente novas músicas e artistas para enriquecer suas playlists.
+
+Suas preferências são ecléticas, variando de acordo com seu estado de espírito e o momento do dia. Evelyn gosta de compartilhar suas descobertas com amigos e ocasionalmente frequenta shows locais nos finais de semana. O maior desafio dela nessa contexto é conciliar sua rotina apertada com seus interesses pela música. Ela busca encontrar num sistema maneiras rápidas e práticas para conhecer novas músicas, bem como favorita-las e acessa-las nas plataformas que usa (youtube e spotify).
+
+Para ela, uma plataforma perfeita teria recomendações musicais personalizadas com base em suas preferências, a possibilidade de descobrir shows locais e tudo isso integrado com seus apps de streaming de música, além de claro trazer todas essas funcionalidades de forma intuitiva e fácil para uma navegação rápida.
+
 
 ## Histórias de Usuários
 
