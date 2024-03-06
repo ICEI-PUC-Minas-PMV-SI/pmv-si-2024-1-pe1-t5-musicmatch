@@ -6,10 +6,11 @@ As plataformas de streaming musical têm proporcionado aos ouvintes a facilidade
 
 Em resumo, a tecnologia e as plataformas de streaming estão moldando o cenário musical de maneira profunda e variada. O MusicMatch é um exemplo de como a inovação pode abrir portas para artistas em progresso, tornando a experiência musical ainda mais rica e acessível para todos.
 
+
 ## Problema
 
  Rádios, gravadoras, televisão e até mesmo as redes sociais tendem a divulgar apenas artistas já consagrados no gosto musical do brasileiro. Desse modo, artistas tidos como "underground" ficam obscurecidos ante a esses que já dominam o cenário musical. Nesse sentido, muitas vezes torna-se difícil ter acesso a novas bandas e a novos cantores.
-Deixando, portanto, o mercado saturado com os mesmos cantores e bandas que permeiam o cotidiano do ouvinte.
+ Deixando, portanto, o mercado saturado com os mesmos cantores e bandas que permeiam o cotidiano do ouvinte.
 
  Assim sendo, nem o público tem acesso a novas bandas e ritmos musicais e nem os artistas conseguem divulgar seu trabalho.
 
@@ -18,9 +19,6 @@ Deixando, portanto, o mercado saturado com os mesmos cantores e bandas que perme
 
 O principal objetivo do projeto Match musicas é desenvolver um software que faça  com que o usuário encontre artistas que estão fora das grandes mídias utilizando como base o seu gosto musical . Além disso, temos o propósito de dar visiilidade para estes artistas, colocando o link das suas músicas na nossa plataforma, gerar uma interação entre os usuários como comentários e avaliações sobre as músicas ouvidas , conhecer o gosto musical do público para recomendar determinados artistas para eles usando o questionário fornecido na sua etapa de cadastro do cliente e  mostrar os proximos eventos das bandas presentes na aplicação.
 
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
