@@ -37,11 +37,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário/Ouvinte/Buscador       | Buscar novos artistas                                     | Expandir meu repertório musical                                           |
-|Usuário/Ouvinte/Buscador       | Conseguir escutar musicas                                 | Relaxar e lazer                                                      |
-|Usuário/Ouvinte/Buscador       | Comentar sobre artistas e até avalia-los                  | Encorajar outros usuários a escutar/conhecer o artista                    |
-|Usuário/Ouvinte/Buscador       | Conhecer outros usuários e artistas                       | Promover seu trabalho de freelancer fazendo várias conexões               |
-|Usuário/Ouvinte/Buscador       | Gostaria de criar um cadastro de preferencias ritmicas    | Receber sugestões de artistas feitas exclusivamente para meu perfil  |
+|Ouvinte/Artista     | Buscar novos artistas              | Expandir meu repertório musical        |
+|Ouvinte/Artista     | Conseguir escutar musicas          | Relaxar e lazer                        |
+|Ouvinte/Artista     | Comentar sobre artistas e até avalia-los  | Encorajar outros usuários a escutar/conhecer o artista              |
+|Ouvinte/Artista     | Conhecer outros usuários e artistas | Promover seu trabalho de freelancer fazendo várias conexões             |
+|Ouvinte/Artista     | Gostaria de criar um cadastro de preferencias ritmicas    | Receber sugestões de artistas feitas exclusivamente para meu perfil  |
+|Artista             | Cadastro de perfil para compartilhamento de informações e contatos    | Para divulgar meu trabalho e estabelecer novas parcerias  |
 
 
 ## Requisitos
