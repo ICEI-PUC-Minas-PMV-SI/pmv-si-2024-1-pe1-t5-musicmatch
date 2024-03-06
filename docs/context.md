@@ -17,7 +17,13 @@ Em resumo, a tecnologia e as plataformas de streaming estão moldando o cenário
 
 ## Objetivos
 
-O principal objetivo do projeto Match musicas é desenvolver um software que faça  com que o usuário encontre artistas que estão fora das grandes mídias utilizando como base o seu gosto musical . Além disso, temos o propósito de dar visiilidade para estes artistas, colocando o link das suas músicas na nossa plataforma, gerar uma interação entre os usuários como comentários e avaliações sobre as músicas ouvidas , conhecer o gosto musical do público para recomendar determinados artistas para eles usando o questionário fornecido na sua etapa de cadastro do cliente e  mostrar os proximos eventos das bandas presentes na aplicação.
+O principal objetivo do projeto MusicMatch é desenvolver um software que faça com que o usuário encontre artistas que estão fora das grandes mídias utilizando como base o seu gosto musical. 
+Destacam-se os principais objetivos específicos:
+
+- Dar visibilidade para estes artistas, colocando o link das suas músicas na nossa plataforma;
+- O usuário atribue comentários e avaliações sobre as músicas e artistas;
+- Conhecer o gosto musical do público para recomendar determinados artistas para eles usando o questionário fornecido na sua etapa de cadastro do cliente;
+- Exibir agenda de eventos dos artistas presentes na aplicação.
 
 
 ## Justificativa
