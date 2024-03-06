@@ -37,14 +37,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário/Ouvinte/Buscador       | Buscar novos artistas                                     | Expandir meu repertório musical                                           |
+|Usuário/Ouvinte/Buscador       | Conseguir escutar musicas                                 | Relaxar e lazer                                                      |
+|Usuário/Ouvinte/Buscador       | Comentar sobre artistas e até avalia-los                  | Encorajar outros usuários a escutar/conhecer o artista                    |
+|Usuário/Ouvinte/Buscador       | Conhecer outros usuários e artistas                       | Promover seu trabalho de freelancer fazendo várias conexões               |
+|Usuário/Ouvinte/Buscador       | Gostaria de criar um cadastro de preferencias ritmicas    | Receber sugestões de artistas feitas exclusivamente para meu perfil  |
 
 
 ## Requisitos
