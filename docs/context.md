@@ -28,9 +28,21 @@ Destacam-se os principais objetivos específicos:
 
 ## Justificativa
 
-A escolha desta aplicação se deu principalmente em virtude da importância de gerar visibilidade para artistas musicais prejudicados pela falta de recursos financeiros e pela ausência de conexões importantes que os possibilitariam serem promovidos na grande mídia. Isso ocorreria por meio da apresentação de seus trabalhos e canções diretamente aos ouvintes de diversos gêneros musicais, que tenham interesse em descobrir novos cantores dentro de sua preferência musical.
+Segundo o Jornal OTEMPO, o faturamento do mercado da música brasileiro em 2022 ultrapassou o marco de R$2,1Bilhões. Um fator problema é que esse montante se localiza muito centralizado em artistas engajados pela mídia e pouco distribuído para novas pessoas que sonham em entrar no mundo da música, dificultando essa expansão.
+
+Estima-se que, no Brasil cerca de 2487 bandas existentes buscam visibilidade para se consolidarem no mercado da música. Logo, a escolha desta aplicação se deu principalmente em virtude da importância de gerar tal visibilidade para artistas musicais prejudicados pela falta de recursos financeiros e pela ausência de conexões importantes que os possibilitariam serem promovidos na alta mídia. Isso ocorreria por meio da apresentação dos seus trabalhos e canções, diretamente aos ouvintes de diversos gêneros musicais, que tenham interesse em descobrir novos cantores dentro de sua preferência musical.
 
 As motivações para um cliente acessar nossa plataforma incluem, por exemplo, a exploração de novas músicas e artistas, possibilitando ao ouvinte diversificar suas escolhas dentro de seu próprio gosto musical por meio de nosso site.
+
+
+
+A imagem a seguir mostra uma pesquisa realizada pelo IBGE, no ano de 2010. Observa-se o número de bandas a cada 100mil habitantes nos estados brasileiros.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161328993/944a711e-4c1d-42f4-b9b9-9df91d88f1c4)
+
+fontes: https://www.otempo.com.br/entretenimento/mercado-de-musica-no-brasil-gera-r-2-1-bilhoes-e-dobra-faturamento-1.2638926
+https://www.facebook.com/MuseuDaMusicaDeMariana/photos/a.350367231688306/949438531781170/?type=3&locale=pt_BR
+
 
 
 ## Público-Alvo
