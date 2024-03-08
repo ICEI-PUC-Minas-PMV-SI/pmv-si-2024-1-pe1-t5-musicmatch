@@ -60,10 +60,17 @@ https://www.facebook.com/MuseuDaMusicaDeMariana/photos/a.350367231688306/9494385
 
 O público-alvo é composto por pessoas que apreciam a música em suas diversas formas, indo desde ouvintes até artistas independentes que buscam uma oportunidade de se destacar. Essa plataforma visa atingir amantes da música que estão dispostos a experimentar novas sonoridades, oferecendo-lhes uma alternativa para explorar e descobrir artistas promissores. Do outro lado, queremos atingir também músicos "indie", ou seja, que não possuem contrato com gravadoras para que possam divulgar seus trabalhos. 
 
-Como podemos ver no gráfico abaixo, o mercado musical é bem distribuido entre várias idades, indo desde adolescentes até idosos. Entretanto quando fazemos uma análise mais profunda em cada gênero concluimos que a maior fatia de ouvintes de indie/alternative é composta por pessoas de 20-24 anos. Tendo isso em vista, nosso foco principal é dialogar com essa faixa etária.
+<a href='https://www.folhape.com.br/cultura/spotify-sertanejo-funk-e-arrocha-foram-os-generos-mais-escutados-no/263222/'>Segundo dados</a> divulgados pela plaforma de streaming musical Spotify, no Brasil o que mais se escuta em termos de gêneros musicais é: (Dados referentes ao ano de 2023)
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/656f93f1-8b6d-45a2-81b4-841227c5ada9)
+1.Sertanejo Pop;
+2.Sertanejo Universitário;
+3.Funk Carioca;
+4.Sertanejo;
+5.Arrocha;
+6.Pop;
+7.Dance Pop;
+8.Funk Mtg;
+9.Funk Ostentação;
+10.Pagode. 
 
-
-fonte: https://www.statista.com/statistics/253915/favorite-music-genres-in-the-us/
-
+Apesar de ser algo bem volátil e que pode mudar com base na região, faixa socio-econômica e idade, esse recorte nos mostra que outros gêneros fora do mainstream acabam por serem totalmente suprimidos se comparados com os gêneros mais "midiáticos" (Sertanejo, funk e suas variações). Nosso papel aqui será atingir tanto bandas/artistas que queiram se consolidar no mercado mas que atualmente não conseguem maneiras efetivas para divulgação de conteúdo, bem como entusiastas da música que desejam sair dos "mais ouvidos" e queiram escutar sonoridades diferentes do que se escuta nas rádios e na grande mídia. 
