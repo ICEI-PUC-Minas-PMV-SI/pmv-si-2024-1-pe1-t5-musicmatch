@@ -30,8 +30,8 @@ Suas preferências são ecléticas, variando de acordo com seu estado de espíri
 
 Para ela, uma plataforma perfeita teria recomendações musicais personalizadas com base em suas preferências, a possibilidade de descobrir shows locais e tudo isso integrado com seus apps de streaming de música, além de claro trazer todas essas funcionalidades de forma intuitiva e fácil para uma navegação rápida.
 
-### Nome: The Mirage (grupo musical)
-### Gênero: Rock/pop   
+#### Nome: The Mirage (grupo musical)
+#### Gênero: Rock/pop   
 
 O The Mirage é uma banda de rock indie que incorpora elementos de dream pop, post-rock e shoegaze em suas músicas. Suas influências incluem bandas como Arctic Monkeys, Tame Impala, Radiohead, Velvet Undergroud... sem deixar de lado inspirações brasileiras como Os Mutantes, Lupe de Lupe, O Terno, Selvagens à Procura de Lei e etc. 
 
