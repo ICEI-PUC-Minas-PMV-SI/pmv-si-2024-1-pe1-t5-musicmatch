@@ -63,14 +63,23 @@ O público-alvo é composto por pessoas que apreciam a música em suas diversas 
 <a href='https://www.folhape.com.br/cultura/spotify-sertanejo-funk-e-arrocha-foram-os-generos-mais-escutados-no/263222/'>Segundo dados</a> divulgados pela plaforma de streaming musical Spotify, no Brasil o que mais se escuta em termos de gêneros musicais é: (Dados referentes ao ano de 2023)
 
 1.Sertanejo Pop;
+<br>
 2.Sertanejo Universitário;
+<br>
 3.Funk Carioca;
+<br>
 4.Sertanejo;
+<br>
 5.Arrocha;
+<br>
 6.Pop;
+<br>
 7.Dance Pop;
+<br>
 8.Funk Mtg;
+<br>
 9.Funk Ostentação;
+<br>
 10.Pagode. 
 
 Apesar de ser algo bem volátil e que pode mudar com base na região, faixa socio-econômica e idade, esse recorte nos mostra que outros gêneros fora do mainstream acabam por serem totalmente suprimidos se comparados com os gêneros mais "midiáticos" (Sertanejo, funk e suas variações). Nosso papel aqui será atingir tanto bandas/artistas que queiram se consolidar no mercado mas que atualmente não conseguem maneiras efetivas para divulgação de conteúdo, bem como entusiastas da música que desejam sair dos "mais ouvidos" e queiram escutar sonoridades diferentes do que se escuta nas rádios e na grande mídia. 
