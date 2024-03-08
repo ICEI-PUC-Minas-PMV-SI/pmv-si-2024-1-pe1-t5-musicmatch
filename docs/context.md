@@ -6,14 +6,7 @@ A tecnologia nos trouxe a facilidade e praticidade que desencadeou a transição
 
 Com base nessa pesquisa, decidimos criar uma solução digital que priorize dar visibilidade a artistas que estão no início de suas carreiras, permitindo que os usuários os descubram e criem uma nova relação de fidelização. Sendo assim, desenvolvemos uma aplicação web que filtra os gostos musicais de cada usuário e os encaminha para cantores e/ou bandas de acordo com suas preferências pessoais.
 
-Fontes:
-" https://pro-musicabr.org.br/2023/09/25/mercado-fonografico-brasileiro-fatura-r-12-bi-primeiro-semestre-de-2023-considerando-receitas-nos-formatos-digital-e-fisico/ "
 
-" https://laboratoriodejo2021.medium.com/artistas-independentes-as-dificuldades-de-viver-da-arte-na-cidade-de-s%C3%A3o-paulo-149420acdc79 "
-
-" https://jornalismorio.espm.br/geral/artistas-independentes-dificuldades-em-viver-de-musica-no-brasil/ "
-
-" https://medium.com/portal-expresso/os-desafios-do-artista-independente-57c33e8bde08 "
 
 
 ## Problema
