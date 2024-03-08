@@ -24,9 +24,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 * Alexandre Gabriel Pereira de Oliveira
 * Ester Alice Souza Leão
+* Gustavo Costa Negro Souza
 * João Paulo Candido Faria Vieira
 * Raphael Silva Ramalho
-* Gustavo Costa Negro Souza
 * Vitor Casimiro Madureira Souza
 
 ## Orientador
