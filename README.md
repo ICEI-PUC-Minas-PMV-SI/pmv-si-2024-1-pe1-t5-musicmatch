@@ -9,6 +9,9 @@ Estima-se que, no Brasil cerca de 2487 bandas existentes buscam visibilidade par
 
 As motivações para um cliente acessar nossa plataforma incluem, por exemplo, a exploração de novas músicas e artistas, possibilitando ao ouvinte diversificar suas escolhas dentro de seu próprio gosto musical por meio de nosso site.
 
+Fontes: https://www.otempo.com.br/entretenimento/mercado-de-musica-no-brasil-gera-r-2-1-bilhoes-e-dobra-faturamento-1.2638926
+https://www.facebook.com/MuseuDaMusicaDeMariana/photos/a.350367231688306/949438531781170/?type=3&locale=pt_BR
+
 `CURSO: Sistemas de Informação`
 
 `DISCIPLINA: Projeto - Aplicações Web`
