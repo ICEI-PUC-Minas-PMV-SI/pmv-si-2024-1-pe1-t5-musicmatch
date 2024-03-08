@@ -54,15 +54,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----| 
-|RF-001| Permitir cadastro e login do usuário | ALTA |  
-|RF-002| Permitir criação de preferências de ritmos musicais dentro do cadastro do usuário | ALTA |  
-|RF-003| Permitir pesquisa de artistas e músicas | ALTA |  
-|RF-004| Visualizar o perfil do artista contendo seus dados e sua lista de músicas | ALTA | 
-|RF-005| Disponibilizar link para execução das músicas | ALTA |
-|RF-006| Permitir uma barra de comentários referênte ao artista para socialização dos usuários | MÉDIA | 
-|RF-007| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | MÉDIA |  
-|RF-008| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários | MÉDIA |  
-|RF-009| Contabilizar os acessos as páginas dos artistas | BAIXA |  
+|RF-001| Permitir cadastro | ALTA |  
+|RF-002| Permitir login do usuário | ALTA |  
+|RF-003| Permitir criação de preferências de ritmos musicais dentro do cadastro do usuário | ALTA |  
+|RF-004| Permitir pesquisa de artistas e músicas | ALTA |  
+|RF-005| Visualizar o perfil do artista contendo seus dados | ALTA | 
+|RF-006| Visualizar a página do artista selecionado contendo suas músicas | ALTA | 
+|RF-007| Disponibilizar link para execução das músicas | ALTA |
+|RF-008| Permitir uma barra de comentários referênte ao artista para socialização dos usuários | MÉDIA | 
+|RF-009| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | MÉDIA |  
+|RF-010| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários | MÉDIA |  
+|RF-011| Contabilizar os acessos as páginas dos artistas | BAIXA |  
 
 
 ### Requisitos não Funcionais
