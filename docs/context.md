@@ -1,21 +1,28 @@
 # Introdução
 
-A indústria da música, com sua vasta gama de gêneros, estilos e talentos, tem sido historicamente reconhecida como um campo vibrante e criativo. No entanto, por trás dos holofotes e dos sucessos estrondosos, muitos artistas enfrentam uma batalha árdua para alcançar reconhecimento e sustento financeiro em um mercado altamente competitivo e muitas vezes desigual. Esse é especialmente o caso para os artistas independentes, cuja jornada rumo ao estrelato é frequentemente obstruída por uma série de desafios e barreiras que vão desde a falta de recursos financeiros até a dificuldade de acesso aos canais de distribuição e promoção. Um exemplo dessa situação seria a cantora Nalla (@nallaoficial), que performou durante muito tempo seu mix de canções na Av. Paulista e mesmo assim ainda precisou recorrer a outras fontes de renda.
+A música brasileira tem raízes profundas nas influências indígenas, africanas e europeias, oferecendo uma rica lista de sons e estilos que refletem a diversidade cultural do país. O samba, a MPB, a bossa nova e o sertanejo são alguns dos gêneros musicais que foram moldados por essas influências étnicas, oferecendo uma vasta gama de gêneros, estilos e talentos. Com isso, acrescentam-se mais opções de artistas e ouvintes, enriquecendo a cultura do país.
 
-A tecnologia nos trouxe a facilidade e praticidade que desencadeou a transição dos discos de vinil para plataformas de streaming, mudando assim a forma como consumimos música e permitindo acesso a qualquer hora e lugar. De acordo com o "Pró-Música", uma entidade que representa as principais gravadoras do Brasil, registrou um crescimento de 12,6% no primeiro semestre de 2023, comparando com o mesmo período do ano anterior. Com isso, o setor alcançou um faturamento de R$ 1,191 bilhão no período, considerando apenas as receitas nos formatos digital e físico. O streaming foi o principal responsável por elevar o mercado musical no Brasil, sendo 99,2% das receitas, subindo 12,4% e atingindo R$ 1,181 bilhão em 2023.
+Em 2022, o Brasil finalizou o ano com US$ 33 bilhões, recuperando-se do cenário da pandemia, de acordo com a “Pesquisa Global de Entretenimento e Mídia 2022-2026”. Segundo o “Pró-Música”, uma entidade que representa as principais gravadoras do Brasil, houve um crescimento de 12,6% no primeiro semestre de 2023, comparando com o mesmo período do ano anterior. Com isso, o setor alcançou um faturamento de R$ 1,191 bilhão no período, considerando apenas as receitas nos formatos digital e físico. O streaming foi o principal responsável por elevar o mercado musical no Brasil, representando 99,2% das receitas, subindo 12,4% e atingindo R$ 1,181 bilhão em 2023.
 
-Com base nessa pesquisa, decidimos criar uma solução digital que priorize dar visibilidade a artistas que estão no início de suas carreiras, permitindo que os usuários os descubram e criem uma nova relação de fidelização. Sendo assim, desenvolvemos uma aplicação web que filtra os gostos musicais de cada usuário e os encaminha para cantores e/ou bandas de acordo com suas preferências pessoais.
+Por trás dos holofotes e dos sucessos estrondosos, muitos artistas enfrentam uma batalha árdua para alcançar reconhecimento em um mercado altamente competitivo e muitas vezes desigual. Um exemplo dessa situação é a cantora Nalla (@nallaoficial), que performou durante muito tempo seu mix de canções na Avenida Paulista e mesmo assim ainda precisou recorrer a outras fontes de renda.
+
+A tecnologia nos trouxe a facilidade e praticidade que desencadearam a transição dos discos de vinil para plataformas de streaming, mudando assim a forma como consumimos música e permitindo acesso a qualquer hora e lugar.
+
+Com base nessa pesquisa, desenvolvemos uma aplicação web que priorize dar visibilidade a artistas que estão no início de suas carreiras, permitindo que os usuários os descubram e criem uma nova relação de fidelização. Sendo assim, uma aplicação web que  filtra os gostos musicais de cada usuário e os encaminha para cantores e/ou bandas de acordo com suas preferências pessoais.
 
 Fontes:
 
-" https://pro-musicabr.org.br/2023/09/25/mercado-fonografico-brasileiro-fatura-r-12-bi-primeiro-semestre-de-2023-considerando-receitas-nos-formatos-digital-e-fisico/ "
+**Estudo da PwC**:
 
-" https://laboratoriodejo2021.medium.com/artistas-independentes-as-dificuldades-de-viver-da-arte-na-cidade-de-s%C3%A3o-paulo-149420acdc79 "
+“https://www.pwc.com.br/pt/estudos/setores-atividade/entretenimento-midia/2022/outlook-2022.html”
 
-" https://jornalismorio.espm.br/geral/artistas-independentes-dificuldades-em-viver-de-musica-no-brasil/ "
+**Pro-Música Brasil**:
 
-" https://medium.com/portal-expresso/os-desafios-do-artista-independente-57c33e8bde08 "
+" https://pro-musicabr.org.br/2023/09/25/mercado-fonografico-brasileiro-fatura-r-12-bi-primeiro-semestre-de-2023-considerando-receitas-nos-formatos-digital-e-fisico/ "
 
+**Artistas Independentes**:
+
+" https://laboratoriodejo2021.medium.com/artistas-independentes-as-dificuldades-de-viver-da-arte-na-cidade-de-s%C3%A3o-paulo-149420acdc79 "
 
 
 ## Problema
