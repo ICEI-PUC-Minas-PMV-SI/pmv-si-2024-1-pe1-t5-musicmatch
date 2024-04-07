@@ -7,6 +7,8 @@ Nosso projeto "Music Match" está organizado em 7 páginas: Homepage, Quem Somos
 
 ![Fluxo e Wireframes MusicMatch2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/c066f781-8977-4ada-9f65-60fec1d290fc)
 
+Para que o fluxo não ficasse extremamente poluido e de difícil compreenssão pela quantidade de setas indicadoras para o mesmo item. Informamos que toda visualização de nome de música, de álbum e de artista é um link para acessar diretamente a página deste item em específico. Independente da página onde o usuário esteja.
+Além de que, quando logado e seu usuário esteja sendo visualizado no canto superior direito, em qualquer tela que esteja ao clicar nele sejá levado a página do usuário com possibilidade de visualização ou edição.
 
 ## Wireframes
 
