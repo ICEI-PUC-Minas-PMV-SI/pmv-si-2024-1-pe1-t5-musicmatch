@@ -1,38 +1,63 @@
 
 # Projeto de Interface
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Nosso projeto "Music Match" está organizado em 7 páginas: Homepage, Quem Somos, Analytics, Perfil do Usuário, Página de Música, Página de Álbum e Página do Artista. Nosso layout é sempre focado em direcionar o usuário para focar em acessar músicas sugeridas, não tirando dele a opção de pesquisar e acessar suas próprias opções.
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
-
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
+![Fluxo e Wireframes MusicMatch2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/c066f781-8977-4ada-9f65-60fec1d290fc)
 
 
 ## Wireframes
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface e é fundamental sempre relacionar cada wireframe com o(s) requisito(s) que ele atende.
+### Homepage
 
-### Exemplo
+A página inicial é o primeiro contato que o usuário tem com a ferramenta. Composta pelo layout e pelas seções(Login, as músicas mais ouvidas do momento, os artistas mais pesquisados da plataforma e, os gêneros mais buscados, veja mais, sugestões baseadas no gosto do membro que efetuar o login e as notícias mais importantes envolvendo o mundo musical).
 
-A tela inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade. Nesta tela, são apresentados os seguintes requisitos
+![Homepage](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/f9249d20-43e6-4fdb-80f0-6883ee637590)
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+### Sobre Nós
 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+Por meio do painel lateral, o usuário que apertar o botão sobre nós, será direcionado ao local em que explicamos um pouco sobre o projeto, apresentamos os desenvolvedores, pedimos um feedback sobre o site e colocamos as nossas redes sociais para uma maior proximidade ao público.
+
+![Sobre nós](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/b2429d3e-c9bd-4f1d-8105-4ee5c77ab936)
+
+### Analytics (Veja Mais)
+
+Na homepage o usuário tem acesso ao botão que leva até a parte de veja mais, nela é mostrado os artistas mais prestigiados, as músicas mais acessada da plataforma(com um destaque especial para os primeiros colocados) e os gêneros mais buscados em nosso site.
+
+![Analytics](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/9c4263ab-3ca4-406f-bf35-1f14a5ed5ca4)
+
+### Cadastro de Usuário
+
+Ao chegar na parte do cadastro, será solicitado que ele informe que tipo de usuário ele é, sendo eles, ouvinte(experiencia personalizada) ou músico(colocar na bio as suas participações em álbuns já cadastrados no site e de qual grupo o mesmo faz parte), o nome de usuário, o e-mail, a sua senha com a confirmação para evitar erros. Após preencher isso será pedido para o mesmo selecionar os gêneros músicas que mais lhe atraem para que ele encontre mais fácil o que é do seu interesse. Caso o usuário já tenha cadastro existe uma opção para o mesmo efetuar o login sendo direcionado para a página em questão. 
+
+![Cadastro 1](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/29e1a8eb-b333-4e7f-9f69-97258ff58234)
+![Cadastro 2](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/21eb668e-6e8e-4305-960f-407ba089ba84)
+
+### Página de Perfil - Ouvinte 
+
+Além disso, ao clicar no canto superior direito onde estará a identificação do usuário, será possível chegar ao seu perfil, que irá exibir a sua foto, a sua preferência musical, as suas redes sociais, a sua biografia e as suas playlists. Por fim, será mostrado um painel lateral na parte direita do site colocando sugestões de bandas e de músicas que poderão ser do agrado da pessoa. 
+
+![Perfil ouvinte](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/041555b0-5d64-4a5b-8339-8b5707b9f99f)
+
+### Página de Perfil - Artista
+
+Ao conectar no site, o artista poderá acessar o seu perfil clicando no canto superior direito.Nela ele poderá colocar a sua biografia, as suas redes sociais, os álbuns que ele participou e realizar postagens como interações com o público e coisas relacionadas a ele ou a sua banda.
+
+![Perfil artista](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/8d6a0a3c-7d6d-4075-b0c5-937c21f78eb3)
+
+### Página de Pesquisa
+
+A partir de qualquer página do site, usando a barra de digitação e botão de pesquisar, é possível chegar na página de busca. Mostrando assim o local de acesso para a página do artista, as suas principais músicas e os álbuns que o mesmo faz parte ou tem autoria.
+
+![Página de pesquisa](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/b7cfec82-cce8-4b76-a694-741a3c46d0f7)
+
+### Página da Música
+
+Também na homepage é possível encontrar uma música específica por meio do menu de pesquisa. Ao pesquisar por ela, será exibido ao usuário uma página que exibe o nome da banda, a foto, a data de criação, a letra da música, o álbum em que ela está presente e algumas sugestões de outras músicas por meio dessa acessada. Ao final é apresentada a sessão de comentários, para utilizá-la é necessário estar logado no site. Dessa forma você poderá curtir e adicionar comentários sobre ela.
+
+![Página da música](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/75b87869-1419-4b8d-954d-4a9049c43e10)
+
+
+
