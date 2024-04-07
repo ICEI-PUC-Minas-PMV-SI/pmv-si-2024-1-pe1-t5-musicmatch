@@ -46,12 +46,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Ouvinte/Artista     | Buscar novos artistas              | Expandir meu repertório musical        |
+|Ouvinte/Artista     | Buscar novos artistas e receber sugestões de acordo com meu perfil            | Expandir meu repertório musical        |
 |Ouvinte/Artista     | Conseguir escutar musicas          | Relaxar e lazer                        |
 |Ouvinte/Artista     | Comentar sobre artistas e até avalia-los  | Encorajar outros usuários a escutar/conhecer o artista              |
-|Ouvinte/Artista     | Conhecer outros usuários e artistas | Promover seu trabalho de freelancer fazendo várias conexões             |
-|Ouvinte/Artista     | Gostaria de criar um cadastro de preferencias ritmicas    | Receber sugestões de artistas feitas exclusivamente para meu perfil  |
-|Artista             | Cadastro de perfil para compartilhamento de informações e contatos    | Para divulgar meu trabalho e estabelecer novas parcerias  |
+|Artista     | Conhecer outros usuários e artistas | Promover seu trabalho de freelancer fazendo várias conexões             |
+|Ouvinte/Artista     | Gostaria de criar um cadastro contendo meus dados, uma biografia básica e com preferencias ritmicas    | Receber sugestões de artistas feitas exclusivamente para meu perfil  |
+|Artista             | Cadastro de perfil para compartilhamento de informações e contatos com possibilidade de postar comentários ou noticias dentro do mesmo   | Para divulgar meu trabalho e estabelecer novas parcerias  |
+|Ouvinte/Artista             | Entrar em contato com os desenvolvedores para caso aja alguma anormalidade no uso da aplicação    | Para informar erros e problemas relacionados ao site  |
 
 
 ## Requisitos
@@ -81,9 +82,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Ser responsivo - Browser, Smartphone ou Tablet | ALTA | 
-|RNF-002| A página deve ter modo noturno/escuro | MÉDIA | 
-|RNF-003| A aplicação deve processar requisições do usuário em no máximo 3s | BAIXA | 
-
 
 ## Restrições
 
@@ -93,4 +91,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não restringir número de usuários simultâneos ao site |
-|02| Ser desenvolvido em HMTL, CSS e JavaScrip             |
