@@ -37,8 +37,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-008| Visualizar a página da música selecionada contendo sua letra | Vitor Casimiro Madureira Souza | --- | 
 |RF-009| Visualizar a página do artista selecionado contendo suas músicas | Vitor Casimiro Madureira Souza | --- | 
 |RF-010| Disponibilizar link para execução das músicas | Vitor Casimiro Madureira Souza | --- |
-|RF-011| Disponibilizar página com ranking de todas as músicas, artistas e ritmos mais ouvidos | Gustavo Costa Negro Souza
- | --- |
+|RF-011| Disponibilizar página com ranking de todas as músicas, artistas e ritmos mais ouvidos | Gustavo Costa Negro Souza | --- |
 |RF-012| Disponibilizar página com descritivo sobre informações dos integrantes do grupo e motivação para o projeto | João Paulo Candido Faria Vieira | --- |
 |RF-013| Permitir envio de feedback sobre o site | João Paulo Candido Faria Vieira | --- | 
 |RF-014| Exibir na página inicial sugestões de músicas para usuários | Raphael Silva Ramalho | --- |
