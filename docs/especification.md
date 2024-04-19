@@ -67,14 +67,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir cadastro | ALTA |  
 |RF-002| Permitir login do usuário | ALTA |  
 |RF-003| Permitir criação de preferências de ritmos musicais dentro do cadastro do usuário | ALTA |  
-|RF-004| Permitir pesquisa de artistas e músicas | ALTA |  
+|RF-004| Permitir pesquisa de artistas, álbuns e músicas | ALTA |  
 |RF-005| Visualizar o perfil do artista contendo seus dados | ALTA | 
-|RF-006| Visualizar a página do artista selecionado contendo suas músicas | ALTA | 
-|RF-007| Disponibilizar link para execução das músicas | ALTA |
-|RF-008| Permitir uma barra de comentários referênte ao artista para socialização dos usuários | MÉDIA | 
-|RF-009| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | MÉDIA |  
-|RF-010| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários | MÉDIA |  
-|RF-011| Contabilizar os acessos as páginas dos artistas | BAIXA |  
+|RF-006| Visualizar a página do álbum selecionado contendo suas músicas | ALTA | 
+|RF-007| Visualizar a página da música selecionada contendo sua letra | ALTA | 
+|RF-008| Visualizar a página do artista selecionado contendo suas músicas | ALTA | 
+|RF-009| Disponibilizar link para execução das músicas | ALTA |
+|RF-010| Disponibilizar página com ranking de todas as músicas, artistas e ritmos mais ouvidos | ALTA |
+|RF-011| Disponibilizar página com descritivo sobre informações dos integrantes do grupo e motivação para o projeto | ALTA |
+|RF-012| Permitir envio de feedback sobre o site | MÉDIA | 
+|RF-013| Exibir na página inicial sugestões de músicas para usuários | MÉDIA |
+|RF-014| Exibir notícias do mundo da música na página inicial | MÉDIA |
+|RF-015| Permitir uma barra de comentários referênte ao artista para socialização dos usuários | MÉDIA |
+|RF-016| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | MÉDIA |  
+|RF-017| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários | MÉDIA |  
+|RF-018| Contabilizar os acessos as páginas dos artistas | BAIXA |  
 
 
 ### Requisitos não Funcionais
