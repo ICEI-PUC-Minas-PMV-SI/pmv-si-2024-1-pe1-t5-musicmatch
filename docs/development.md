@@ -27,8 +27,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Responsável | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | João | index.html |
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês | Ana Paula | cadastro-noticia.html |
+|RF-001| Permitir cadastro | Raphael Silva Ramalho | --- |
+|RF-002| Permitir login do usuário | Raphael Silva Ramalho | --- |  
+|RF-003| Permitir criação de preferências de ritmos musicais dentro do cadastro do usuário | Raphael Silva Ramalho | --- |  
+|RF-004| Permitir pesquisa de artistas, álbuns e músicas | João Paulo Candido Faria Vieira | --- |  
+|RF-005| Visualizar o perfil do artista contendo seus dados | Ester Alice Souza Leão | --- | 
+|RF-006| Visualizar o perfil do ouvinte contendo seus dados | Ester Alice Souza Leão | --- |
+|RF-007| Visualizar a página do álbum selecionado contendo suas músicas | Alexandre Gabriel Pereira de Oliveira | --- | 
+|RF-008| Visualizar a página da música selecionada contendo sua letra | Vitor Casimiro Madureira Souza | --- | 
+|RF-009| Visualizar a página do artista selecionado contendo suas músicas | Vitor Casimiro Madureira Souza | --- | 
+|RF-010| Disponibilizar link para execução das músicas | Vitor Casimiro Madureira Souza | --- |
+|RF-011| Disponibilizar página com ranking de todas as músicas, artistas e ritmos mais ouvidos | Gustavo Costa Negro Souza
+ | --- |
+|RF-012| Disponibilizar página com descritivo sobre informações dos integrantes do grupo e motivação para o projeto | João Paulo Candido Faria Vieira | --- |
+|RF-013| Permitir envio de feedback sobre o site | João Paulo Candido Faria Vieira | --- | 
+|RF-014| Exibir na página inicial sugestões de músicas para usuários | Raphael Silva Ramalho | --- |
+|RF-015| Exibir notícias do mundo da música na página inicial | Raphael Silva Ramalho | --- |
+|RF-016| Permitir uma barra de comentários referênte ao artista para socialização dos usuários | Vitor Casimiro Madureira Souza | --- |
+|RF-017| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | Vitor Casimiro Madureira Souza | --- |  
+|RF-018| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários | Raphael Silva Ramalho | --- |  
+|RF-019| Contabilizar os acessos as páginas dos artistas | Vitor Casimiro Madureira Souza | --- | 
+
+
 
 ## Descrição das estruturas:
 
