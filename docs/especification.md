@@ -99,3 +99,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não restringir número de usuários simultâneos ao site |
+|03| Ser desenvolvido em HTML, CSS e Javascript |
