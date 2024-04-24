@@ -67,22 +67,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir cadastro | ALTA |  
 |RF-002| Permitir login do usuário | ALTA |  
 |RF-003| Permitir criação de preferências de ritmos musicais dentro do cadastro do usuário | ALTA |  
-|RF-004| Permitir pesquisa de artistas, álbuns e músicas | ALTA |  
-|RF-005| Visualizar o perfil do artista contendo seus dados | ALTA | 
-|RF-006| Visualizar o perfil do ouvinte contendo seus dados | ALTA |
-|RF-007| Visualizar a página do álbum selecionado contendo suas músicas | ALTA | 
-|RF-008| Visualizar a página da música selecionada contendo sua letra | ALTA | 
-|RF-009| Visualizar a página do artista selecionado contendo suas músicas | ALTA | 
-|RF-010| Disponibilizar link para execução das músicas | ALTA |
-|RF-011| Disponibilizar página com ranking de todas as músicas, artistas e ritmos mais ouvidos | ALTA |
-|RF-012| Disponibilizar página com descritivo sobre informações dos integrantes do grupo e motivação para o projeto | ALTA |
-|RF-013| Permitir envio de feedback sobre o site | MÉDIA | 
-|RF-014| Exibir na página inicial sugestões de músicas para usuários | MÉDIA |
-|RF-015| Exibir notícias do mundo da música na página inicial | MÉDIA |
-|RF-016| Permitir uma barra de comentários referênte ao artista para socialização dos usuários | MÉDIA |
-|RF-017| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | MÉDIA |  
-|RF-018| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários | MÉDIA |  
-|RF-019| Contabilizar os acessos as páginas dos artistas | BAIXA |  
+|RF-004| Permitir edição do perfil de acordo com as informações exigidas no cadastro | ALTA |  
+|RF-005| Permitir pesquisa de artistas, álbuns e músicas | ALTA |  
+|RF-006| Visualizar o perfil do artista contendo seus dados | ALTA | 
+|RF-007| Visualizar o perfil do ouvinte contendo seus dados | ALTA |
+|RF-008| Visualizar a página do álbum selecionado contendo suas músicas | ALTA | 
+|RF-009| Visualizar a página da música selecionada contendo sua letra | ALTA | 
+|RF-010| Visualizar a página do artista selecionado contendo suas músicas | ALTA | 
+|RF-011| Disponibilizar link para execução das músicas | ALTA |
+|RF-012| Disponibilizar página com ranking de todas as músicas, artistas e ritmos mais ouvidos | ALTA |
+|RF-013| Disponibilizar página com descritivo sobre informações dos integrantes do grupo e motivação para o projeto | ALTA |
+|RF-014| Permitir envio de feedback sobre o site | MÉDIA | 
+|RF-015| Exibir na página inicial sugestões de músicas para usuários | MÉDIA |
+|RF-016| Exibir notícias do mundo da música na página inicial | MÉDIA |
+|RF-017| Permitir uma barra de comentários referênte ao artista para socialização dos usuários | MÉDIA |
+|RF-018| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | MÉDIA |  
+|RF-019| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários | MÉDIA |  
 
 
 ### Requisitos não Funcionais
@@ -90,6 +90,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Ser responsivo - Browser, Smartphone ou Tablet | ALTA | 
+
 
 ## Restrições
 
