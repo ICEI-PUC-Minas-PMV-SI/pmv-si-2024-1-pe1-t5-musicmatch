@@ -143,8 +143,8 @@ E na área de 'Top Trending' temos os rankings de música, artista e gênero dad
 
 ### Requisitos
 - RF-09 - Visualizar a página do artista selecionado contendo suas músicas
-- RF-019 - Visualizar dentro da página do artista selecionado seus álbuns
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161328993/5e12352e-62e3-4eb3-9a63-8d5c15aa3799)
+- RF-019 - Visualizar dentro da página do artista selecionado seus álbuns
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161328993/15ccbae6-bf08-4954-a2eb-6f9fb5a8b0ec)
 
 ## Página da Música
