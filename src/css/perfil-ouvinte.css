@@ -1,6 +1,8 @@
 
   /* usuario */
  
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap'); 
+
   
   body, html {
     margin: 0;
@@ -8,7 +10,7 @@
     padding: 0;
     width: 100%;
     min-height: 100%;
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'Montserrat', sans-serif;
     position: relative; 
   }
 
