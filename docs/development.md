@@ -165,22 +165,30 @@ E na área de 'Top Trending' temos os rankings de música, artista e gênero dad
 
 Atendendo a ambos os RF sugeridos, foi criado uma página com nome de "sobre-nos.html" que engloba a solução dos dois problemas propostos. 
 
-##### RF-12
+### RF-12
 
 ![sobre-nos-motiv](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/3539cca2-44fb-4271-8609-a5829cd1aac5)
 
 ![sobre-nos-idealizadores](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/8663553d-9cb5-4c54-9f7c-b8771f9ed191)
 
-##### RF-13
+### RF-13
 
 ![sobre-nos-feedback](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/4473b26a-fa99-444b-a26e-2ac94feb70c4)
 
 Sendo que nesta página temos um formulário que contem 3 campos. Sendo eles:
 
 |Nome    | Tipo | Descrição | Exemplo |
+|------|------------------------|------------|-----------------|
 |Seu nome|Texto|Nome do usuário que está escrevendo o feedback|Leonardo|
-|Seu e-mail|Texto|e-mail pra contato do usuário|leonardo@gmail.com|
+|Seu e-mail|Texto|E-mail pra contato do usuário|leonardo@gmail.com|
 |Sua mensagem|Texto|Mensagem do usuário|Adorei o site!|
+
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Seu nome             | Texto  | Nome do usuário que está escrevendo o feedback            | Leonardo                            |
+| Seu e-mail         | Texto             | E-mail pra contato do usuário                         | leonardo@gmail.com             |
+| Sua mensagem       | Texto             | Mensagem do usuário                       | Adorei o site!                            |
+
 
 ## Página de Pesquisa
 
@@ -188,7 +196,7 @@ Sendo que nesta página temos um formulário que contem 3 campos. Sendo eles:
 
 Criando a página de pesquisa chamada "search.html" foi resolvida a solicitação do RF-04.
 
-#### RF-04
+### RF-04
 
 ![pesquisar-artista](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/2b62b402-c452-4f6e-b9d0-f76af5b454ba)
 
