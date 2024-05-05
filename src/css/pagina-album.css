@@ -1,0 +1,164 @@
+/* Importar fontes do Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@100..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+/* Estilo para o layout geral */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+header {
+    width: 100%;
+    height: 100px;
+    background: #841c94;
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    align-items: center;
+    width: 26px;
+}
+
+.menu img {
+    width: 26px;
+    margin-right: 24px;
+}
+
+.logo img {
+    height: 76px;
+    border-radius: 50%;
+    position: relative;
+    top: 2px;
+}
+
+.search {
+    position: relative;
+    width: 50%;
+}
+
+.search input {
+    border: none;
+    border-radius: 8px;
+    height: 40px;
+    padding: 0px 12px;
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.search button {
+    display: block;
+    position: absolute;
+    top: 6px;
+    right: 12px;
+    width: 24px;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.search button img {
+    width: 24px;
+}
+
+.login button {
+    background: #FFF;
+    padding: 0px 32px;
+    height: 40px;
+    border: none;
+    border-radius: 24px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin: 0px;
+    justify-content: space-between;
+    padding: 0px 40px;
+    width: 100%;
+}
+
+
+.layout {
+    position: relative;
+    top: 10%;
+    width: 100%;
+    height: 600px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+h3 {
+    color: #858585;
+}
+
+.music-list li {
+    list-style: none;
+    line-height: 25px;
+}
+
+.timer ul {
+    position: absolute;
+    left: 87%;
+    margin-top: 70px;
+    list-style: none;
+    line-height: 26px;
+
+}
+footer {
+    background-color: #841c94;
+    padding: 20px 0;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 180%; 
+}
+@media screen and (max-width: 1465px) {
+    .album-details h1,h3{
+        position: relative;
+        left: 60%;
+    }
+    footer{
+        top: 200%;
+    }
+}
+@media screen and (max-width: 700px) {
+    .layout img {
+        max-width: 50%; /* Diminui a largura da imagem */
+    }
+    
+    .album-details h1,h3 {
+        font-size: 35px;
+        left: 150px;
+        position: relative; /* Diminui o tamanho da fonte */
+    }
+    
+    .description p{
+        position: relative;
+        margin-top: -30px;
+        left: 0px;
+        font-size: 25px; /* Diminui o tamanho da fonte */
+    }
+    .music-list ul{ 
+
+        margin-left: -30px;
+    }
+    .timer ul{
+        margin-left: -20px;
+    }
+}
+@media screen and (max-width: 627px) {
+    .album-details h1,h3{
+        font-size: 25px;
+    }
+    .description p{
+        position: relative;
+        margin-left: -30px;
+        font-size:20px;
+    }
+}
