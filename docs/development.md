@@ -1,4 +1,4 @@
-# Programação de Funcionalidades
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/7dd30854-d90e-43b5-9628-1c5f6e816a42)# Programação de Funcionalidades
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
@@ -95,6 +95,50 @@ Agora na **Imagem 4** é representado a biografia padrão de um usuário, no ent
 ##### **Imagem 4**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161658408/5e9a178d-0198-4614-a01c-cac870f18d46)
+
+## Login & Cadastro
+
+### Requisitos
+- RF-001 - Permitir cadastro
+- RF-002 - Permitir login do usuário
+- RF-003 - Permitir criação de preferências de ritmos musicais dentro do cadastro do usuário
+
+Os requisitos focados em login/cadastro foram atingidos nas telas `cadastro.html` e `cadastroComplete.html`
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/7898d962-927f-4799-bfc7-0292b08993ef)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/4a79c9f4-7f8d-4826-9419-910e6a3da5b8)
+
+Nessas duas imagens podemos ver o formulário para cadastro e login de novos usuários. Na parte de cadastro o usuário completa os campos com seus dados (tipo de usuário, nome, email, senha e data de nascimento), já na tela de login é preciso fornecer o nome de usuário e senha para completar o acesso.
+
+Ao iniciar uma nova conta, após preenchimento dos dados de forma correta o usuário terá que selecionar quais os seus gêneros favoritos
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/024ba10c-1c58-42c1-8bd0-b6a95436076d)
+
+## Tela home
+
+### Requisitos
+- RF-014 - Exibir na página inicial sugestões de músicas para usuários
+- RF-015 - Exibir notícias do mundo da música na página inicial
+- RF-018 - Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários
+
+A página `home.html` abrange todos esses requisitos.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/0e2e0728-3a00-4df4-87f8-dfe9b7175ab7)
+
+As sugestões ficam numa seção chamada 'For You'
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/928aee9a-0602-4b27-9a51-d7be262d2f6e)
+
+Noticias e novidades sobre música ficam nessa parte
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/637703de-43ab-4ccc-af92-e311642cfe1e)
+
+E na área de 'Top Trending' temos os rankings de música, artista e gênero dado como base notas dadas pelos usuários
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/4e059d77-24cb-4358-b8a6-59f9241855fa)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/40f01bc6-a2ed-47b8-9afe-2bb424c4ce7d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/ac56be8a-4b43-468b-a8fd-c4334bf381ba)
+
 
 
 
