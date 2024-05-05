@@ -45,7 +45,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-016| Permitir uma barra de comentários referênte ao artista para socialização dos usuários | Vitor Casimiro Madureira Souza | Pagina-Musica.html |
 |RF-017| Permitir aos usuários cadastrados realizar classificaçôes por nota para os artistas | Vitor Casimiro Madureira Souza | Perfil-Artista.html |  
 |RF-018| Exibir ranking na pagina inicial dos artistas mais cotados de acordo com a nota dada pelos usuários | Raphael Silva Ramalho | home.html |  
-|RF-019| Contabilizar os acessos as páginas dos artistas | Vitor Casimiro Madureira Souza | Perfil-Artista.html | 
+|RF-019| Visualizar dentro da página do artista selecionado seus álbuns | Vitor Casimiro Madureira Souza | Perfil-Artista.html | 
 
 
 
@@ -138,6 +138,15 @@ E na área de 'Top Trending' temos os rankings de música, artista e gênero dad
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/4e059d77-24cb-4358-b8a6-59f9241855fa)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/40f01bc6-a2ed-47b8-9afe-2bb424c4ce7d)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/ac56be8a-4b43-468b-a8fd-c4334bf381ba)
+
+## Página do Artista
+
+### Requisito
+- RF-09 - Visualizar a página do artista selecionado contendo suas músicas
+- RF-019 - Visualizar dentro da página do artista selecionado seus álbuns
+![image](
+
+
 
 
 
