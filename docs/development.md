@@ -51,18 +51,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ## Descrição das estruturas:
 
-## Notícia
-|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
-| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
-
-
-
-
-
 ## Perfil ouvinte e Perfil artista
 
 ### Requisitos
@@ -182,13 +170,6 @@ Sendo que nesta página temos um formulário que contem 3 campos. Sendo eles:
 |Seu nome|Texto|Nome do usuário que está escrevendo o feedback|Leonardo|
 |Seu e-mail|Texto|E-mail pra contato do usuário|leonardo@gmail.com|
 |Sua mensagem|Texto|Mensagem do usuário|Adorei o site!|
-
-|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Seu nome             | Texto  | Nome do usuário que está escrevendo o feedback            | Leonardo                            |
-| Seu e-mail         | Texto             | E-mail pra contato do usuário                         | leonardo@gmail.com             |
-| Sua mensagem       | Texto             | Mensagem do usuário                       | Adorei o site!                            |
-
 
 ## Página de Pesquisa
 
