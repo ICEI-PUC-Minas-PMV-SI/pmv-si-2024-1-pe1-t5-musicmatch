@@ -162,6 +162,10 @@ Criando a página de pesquisa chamada "search.html" foi resolvida a solicitaçã
 
 ![pesquisar-musica-albuns](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161091906/1d207bdb-7c10-4b7b-8b04-81de2dfe3bcc)
 
+### Requisitos
+- RF-007 - Visualizar a página do álbum selecionado contendo suas músicas 
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161147321/9dc62812-8406-4995-b69b-0de9a5009d02)
+
 
 
 
