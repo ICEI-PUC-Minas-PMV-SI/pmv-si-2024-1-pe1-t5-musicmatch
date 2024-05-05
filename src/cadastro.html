@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="https://i.ibb.co/rckCKp5/logo-preta.png" />
+  <link rel="stylesheet" href="./assets/style.css" />
+  <link rel="stylesheet" href="./assets/dropdown.css" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://kit.fontawesome.com/908910519c.js" crossorigin="anonymous" />
+  </script>
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+  <title>Cadastro</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <section class="w-screen z-10 sticky top-0 bg-roxo mb-10">
+    <header class="flex flex-wrap pt-5 lg:py-3 px-3 lg:px-10 lg:justify-between gap-5 items-center">
+      <span class="font-bold text-3xl cursor-pointer"><i class="fa-solid fa-bars" aria-hidden="true"
+          onClick="toggleMenu()"></i></span><a class="flex mb-4 md:mb-0" href="/arquivos%20estaticos/home.html"><img
+          class="rounded-full w-16 h-16" src="https://i.ibb.co/rckCKp5/logo-preta.png" alt="Image" /></a><input
+        placeholder="Oque deseja escutar?" class="w-6/12 px-5 py-2 rounded-2xl hidden lg:block" type="text" name=""
+        id="" /><a
+        class="bg-gray-100 px-2 lg:px-10 py-2 rounded-3xl font-bold text-end absolute lg:static top-10 right-10"
+        href="/arquivos%20estaticos/cadastro.html">Login / Sign up</a>
+    </header>
+    <!-- BARRA DE PESQUISAR MOBILE -->
+    <div class="w-screen flex lg:hidden justify-center pb-5">
+      <input placeholder="Oque deseja escutar?" class="w-10/12 px-10 py-2 rounded-2xl" type="text" name="" id="" />
+    </div>
+    <!-- BARRA DE PESQUISAR MOBILE -->
+
+    <!-- MENU -->
+    <section class="fixed" id="menu">
+      <ul class="font-bold text-white cursor-pointer" id="dropdown-ul">
+        <li class="bg-cinza p-5 border-b-2 duration-300 hide hover:scale-110">Quem somos</li>
+        <li class="bg-cinza p-5 border-b-2 duration-300 hide hover:scale-110">Quem somos</li>
+        <li class="bg-cinza p-5 border-b-2 duration-300 hide hover:scale-110">Quem somos</li>
+        <li class="bg-cinza p-5 hide hover:scale-110">Quem somos</li>
+      </ul>
+    </section>
+  </section>
+
+  <!-- CADASTRO -->
+  <section id="cadastroCard" data-aos="fade-up">
+    <div class="hidden lg:grid place-content-center" id="computador">
+      <div class="p-20 flex flex-col justify-center rounded-xl mb-10"
+        style="background: rgba(132, 28, 148, 0.45); box-shadow: rgba(31, 38, 135, 0.37) 0px 8px 32px 0px; backdrop-filter: blur(5px); border-radius: 10px">
+        <h1 class="text-7xl text-center font-newAstro" style="text-shadow: rgb(147, 51, 234) 2px 2px 5px">
+          Cadastro
+        </h1>
+        <div class="flex flex-col gap-0">
+          <p class="text-4xl font-bold">Sou: </p>
+          <div class="text-2xl mt-3"><input type="radio" name="tipo" id="radioOuv" class="scale-125 mr-2"><label
+              for="radioOuv" class="mr-10">Ouvinte</label><input type="radio" name="tipo" id="radioMus"
+              class="scale-125 mr-2"><label for="radioMus">Músico</label></div>
+          <p class="text-4xl font-bold mb-3 mt-8">Nome de usuário:</p>
+          <div class="relative h-16 undefined"><input type="text" placeholder="User"
+              class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-user absolute top-2 left-5 text-2xl"
+              aria-hidden="true"></i></div>
+          <p class="text-4xl font-bold mb-3 mt-8">Email:</p>
+          <div class="relative h-16 undefined"><input type="email" placeholder="Email"
+              class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-envelope absolute top-2 left-5 text-2xl"
+              aria-hidden="true"></i></div>
+          <p class="text-4xl font-bold mb-3 mt-8">Senha:</p>
+          <div class="flex gap-10">
+            <div class="relative h-16 undefined"><input type="password" placeholder="Senha"
+                class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-lock absolute top-2 left-5 text-2xl"
+                aria-hidden="true"></i></div>
+            <div class="relative h-16 undefined"><input type="password" placeholder="Repetir a senha"
+                class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-lock absolute top-2 left-5 text-2xl"
+                aria-hidden="true"></i></div>
+          </div>
+          <p class="text-4xl font-bold mb-3 mt-8">Data de nascimento:</p>
+          <div class="relative h-16 undefined"><input type="date" class="py-2 rounded-xl pl-14 text-2xl date-input"><i
+              class="fas fa-calendar absolute top-2 left-5 text-2xl" aria-hidden="true"></i></div>
+        </div>
+        <button
+          class="bg-roxo duration-300 text-white py-3 px-20 rounded-xl mt-10 text-xl font-bold place-self-center hover:bg-gray-100 hover:text-black">Cadastrar</button>
+        <p class="text-xl underline mt-4 cursor-pointer text-center" onclick="toggle('login')">Já possui conta? Faça seu
+          login aqui!</p>
+      </div>
+    </div>
+
+    <!-- MOBILE -->
+
+    <div class="grid lg:hidden place-content-center scale-90" id="mobile">
+      <div class="py-20 px-5 flex flex-col justify-center items-center rounded-xl"
+        style="background: rgba(132, 28, 148, 0.45); box-shadow: rgba(31, 38, 135, 0.37) 0px 8px 32px 0px; backdrop-filter: blur(5px); border-radius: 10px">
+        <h1 class="text-7xl text-center font-newAstro mb-10" style="text-shadow: rgb(147, 51, 234) 2px 2px 5px">
+          Cadastro
+        </h1>
+        <div class="flex flex-col gap-0">
+          <p class="text-4xl font-bold">Sou: </p>
+          <div class="text-2xl mt-3"><input type="radio" name="tipo" id="radioOuv" class="scale-125 mr-2"><label
+              for="radioOuv" class="mr-10">Ouvinte</label><input type="radio" name="tipo" id="radioMus"
+              class="scale-125 mr-2"><label for="radioMus">Músico</label></div>
+          <p class="text-4xl font-bold mb-3 mt-8">Nome de usuário:</p>
+          <div class="relative h-16 undefined"><input type="text" placeholder="User"
+              class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-user absolute top-2 left-5 text-2xl"
+              aria-hidden="true"></i></div>
+          <p class="text-4xl font-bold mb-3 mt-8">Email:</p>
+          <div class="relative h-16 undefined"><input type="email" placeholder="Email"
+              class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-envelope absolute top-2 left-5 text-2xl"
+              aria-hidden="true"></i></div>
+          <p class="text-4xl font-bold mb-3 mt-8">Senha:</p>
+          <div class="flex gap-2 flex-wrap">
+            <div class="relative h-16 undefined"><input type="password" placeholder="Senha"
+                class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-lock absolute top-2 left-5 text-2xl"
+                aria-hidden="true"></i></div>
+            <div class="relative h-16 undefined"><input type="password" placeholder="Repetir a senha"
+                class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-lock absolute top-2 left-5 text-2xl"
+                aria-hidden="true"></i></div>
+          </div>
+          <p class="text-4xl font-bold mb-3 mt-8">Data de nascimento:</p>
+          <div class="relative h-16 undefined"><input type="date" class="py-2 rounded-xl pl-14 text-2xl date-input"><i
+              class="fas fa-calendar absolute top-2 left-5 text-2xl" aria-hidden="true"></i></div>
+        </div>
+        <button
+          class="bg-roxo duration-300 text-white py-3 px-20 rounded-xl mt-10 text-xl font-bold place-self-center hover:bg-gray-100 hover:text-black">Cadastrar</button>
+        <p class="text-xl underline mt-4 cursor-pointer text-center" onclick="toggle('login')">Já possui conta? Faça
+          seu
+          login aqui!</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- LOGIN -->
+  <section id='loginCard' class="hidden">
+    <div class="place-content-center hidden lg:grid" id="computador">
+      <div class="p-20 flex flex-col justify-center rounded-xl mb-10"
+        style="background: rgba(132, 28, 148, 0.45); box-shadow: rgba(31, 38, 135, 0.37) 0px 8px 32px 0px; backdrop-filter: blur(5px); border-radius: 10px; transform: none; opacity: 1;">
+        <h1 class="text-6xl text-center font-newAstro pb-10" style="text-shadow: rgb(147, 51, 234) 2px 2px 5px;">Login
+        </h1>
+        <div class="relative h-16 undefined"><input type="text" placeholder="User"
+            class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-user absolute top-2 left-5 text-2xl"
+            aria-hidden="true"></i></div>
+        <div class="relative h-16 undefined"><input type="password" placeholder="Senha"
+            class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-lock absolute top-2 left-5 text-2xl"
+            aria-hidden="true"></i></div><button
+          class="bg-roxo duration-300 text-white py-3 px-20 rounded-xl mt-10 text-xl font-bold place-self-center hover:bg-gray-100 hover:text-black">Login</button>
+        <p class="text-xl underline mt-4 cursor-pointer" onclick="toggle('cadastro')">Ou se cadastre em nossa
+          plataforma!</p>
+      </div>
+    </div>
+
+    <!-- MOBILE -->
+
+    <div class="grid lg:hidden place-content-center items-center scale-90" id="mobile">
+      <div class="py-20 px-5 flex flex-col justify-center rounded-xl mb-10"
+        style="background: rgba(132, 28, 148, 0.45); box-shadow: rgba(31, 38, 135, 0.37) 0px 8px 32px 0px; backdrop-filter: blur(5px); border-radius: 10px; transform: none; opacity: 1;">
+        <h1 class="text-6xl text-center font-newAstro pb-10" style="text-shadow: rgb(147, 51, 234) 2px 2px 5px;">Login
+        </h1>
+        <div class="relative h-16 undefined"><input type="text" placeholder="User"
+            class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-user absolute top-2 left-5 text-2xl"
+            aria-hidden="true"></i></div>
+        <div class="relative h-16 undefined"><input type="password" placeholder="Senha"
+            class="py-2 rounded-xl pl-14 text-2xl "><i class="fas fa-lock absolute top-2 left-5 text-2xl"
+            aria-hidden="true"></i></div><button
+          class="bg-roxo duration-300 text-white py-3 px-20 rounded-xl mt-10 text-xl font-bold place-self-center hover:bg-gray-100 hover:text-black">Login</button>
+        <p class="text-xl underline mt-4 cursor-pointer text-center" onclick="toggle('cadastro')">Ou se cadastre em
+          nossa
+          plataforma!</p>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- FOOTER -->
+  <section class="bg-roxo text-center py-10 text-white font-bold text-5xl">
+    FOOTER
+  </section>
+
+  <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+  <script src="./assets/swiper.js"></script>
+  <script src="./assets/navigation.js"></script>
+  <script src="./assets/dropdown.js"></script>
+  <script src="./assets/cadastroNav.js"></script>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init();
+  </script>
+</body>
+
+</html>
