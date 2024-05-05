@@ -139,12 +139,26 @@ E na área de 'Top Trending' temos os rankings de música, artista e gênero dad
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/40f01bc6-a2ed-47b8-9afe-2bb424c4ce7d)
 ![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/70926962/ac56be8a-4b43-468b-a8fd-c4334bf381ba)
 
-## Página do Artista
+## Perfil do Artista
 
-### Requisito
+### Requisitos
 - RF-09 - Visualizar a página do artista selecionado contendo suas músicas
 - RF-019 - Visualizar dentro da página do artista selecionado seus álbuns
-![image](
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161328993/5e12352e-62e3-4eb3-9a63-8d5c15aa3799)
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161328993/15ccbae6-bf08-4954-a2eb-6f9fb5a8b0ec)
+
+## Página da Música
+
+### Requisitos
+- RF-08 - Visualizar a página da música selecionada contendo sua letra
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161328993/4887dacb-8a38-4c96-9778-604359b76b5c)
+- RF-010 - Disponibilizar link para execução das músicas
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161328993/31880afa-0191-431b-b8fb-912f02402bea)
+- RF-016 - Permitir uma barra de comentários referênte à música para socialização com os usuários
+![image](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161328993/51468133-7402-491f-8139-cdf643adef87)
+
+
+
 
 
 
