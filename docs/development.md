@@ -30,7 +30,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-001| Permitir cadastro | Raphael Silva Ramalho | cadastro.html |
 |RF-002| Permitir login do usuário | Raphael Silva Ramalho | cadastro.html |  
 |RF-003| Permitir criação de preferências de ritmos musicais dentro do cadastro do usuário | Raphael Silva Ramalho | cadastroComplete.html |  
-|RF-004| Permitir pesquisa de artistas, álbuns e músicas | João Paulo Candido Faria Vieira | --- |  
+|RF-004| Permitir pesquisa de artistas, álbuns e músicas | João Paulo Candido Faria Vieira | search.html |  
 |RF-005| Visualizar o perfil do artista contendo seus dados | Ester Alice Souza Leão | perfil-artista.html | 
 |RF-006| Visualizar o perfil do ouvinte contendo seus dados | Ester Alice Souza Leão | perfil-ouvinte.html |
 |RF-007| Visualizar a página do álbum selecionado contendo suas músicas | Alexandre Gabriel Pereira de Oliveira | pagina-album.html | 
@@ -38,8 +38,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-009| Visualizar a página do artista selecionado contendo suas músicas | Vitor Casimiro Madureira Souza | Perfil-Artista.html | 
 |RF-010| Disponibilizar link para execução das músicas | Vitor Casimiro Madureira Souza | Pagina-Musica.html |
 |RF-011| Disponibilizar página com ranking de todas as músicas, artistas e ritmos mais ouvidos | Gustavo Costa Negro Souza | --- |
-|RF-012| Disponibilizar página com descritivo sobre informações dos integrantes do grupo e motivação para o projeto | João Paulo Candido Faria Vieira | --- |
-|RF-013| Permitir envio de feedback sobre o site | João Paulo Candido Faria Vieira | --- | 
+|RF-012| Disponibilizar página com descritivo sobre informações dos integrantes do grupo e motivação para o projeto | João Paulo Candido Faria Vieira | sobre-nos.html |
+|RF-013| Permitir envio de feedback sobre o site | João Paulo Candido Faria Vieira | sobre-nos.html | 
 |RF-014| Exibir na página inicial sugestões de músicas para usuários | Raphael Silva Ramalho | home.html |
 |RF-015| Exibir notícias do mundo da música na página inicial | Raphael Silva Ramalho | home.html |
 |RF-016| Permitir uma barra de comentários referênte ao artista para socialização dos usuários | Vitor Casimiro Madureira Souza | Pagina-Musica.html |
