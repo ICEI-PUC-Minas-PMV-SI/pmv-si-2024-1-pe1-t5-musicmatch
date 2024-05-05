@@ -33,7 +33,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-004| Permitir pesquisa de artistas, álbuns e músicas | João Paulo Candido Faria Vieira | --- |  
 |RF-005| Visualizar o perfil do artista contendo seus dados | Ester Alice Souza Leão | perfil-artista.html | 
 |RF-006| Visualizar o perfil do ouvinte contendo seus dados | Ester Alice Souza Leão | perfil-ouvinte.html |
-|RF-007| Visualizar a página do álbum selecionado contendo suas músicas | Alexandre Gabriel Pereira de Oliveira | --- | 
+|RF-007| Visualizar a página do álbum selecionado contendo suas músicas | Alexandre Gabriel Pereira de Oliveira | pagina-album.html | 
 |RF-008| Visualizar a página da música selecionada contendo sua letra | Vitor Casimiro Madureira Souza | --- | 
 |RF-009| Visualizar a página do artista selecionado contendo suas músicas | Vitor Casimiro Madureira Souza | --- | 
 |RF-010| Disponibilizar link para execução das músicas | Vitor Casimiro Madureira Souza | --- |
