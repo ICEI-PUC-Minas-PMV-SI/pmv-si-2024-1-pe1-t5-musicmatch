@@ -28,9 +28,17 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CT01 - Criar conta parte 1**
  :--------------: | ------------
 **Procedimento**  | 1) Acesse o endereço www.teste.com.br <br> 2) Clique em criar conta <br> 2) Preencha todos os campos do formulário <br> 3) Clique no botão "Continuar".
-**Requisitos associados** | RF-001
+**Requisitos associados** | RF-001 |
 **Resultado esperado** | Prosseguir para a parte 2 do cadastro
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro
+**Resultado obtido** | Sucesso
+
+**Caso de Teste** | *CT01 - Perfil dinamico*
+ :--------------: | ------------
+**Procedimento**  | 1) Acesse o endereço */pesquisa-usuario.html* <br> 2) Digite o nome de usuario <br> 3) Clique em "Pesquisar".
+**Requisitos associados** | RF-005 - RF-006 
+**Resultado esperado** | visualizar perfil do usuário cadastrado
+**Dados de entrada** | nome de usuário
 **Resultado obtido** | Sucesso
 
 **Caso de Teste** | **CT02 - Criar conta parte 2**
@@ -49,6 +57,11 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |---|---|
 |Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
 |Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+
+|*Caso de Teste*                                 |*CT01 - Perfil dinamico*                                         |
+|---|---|
+|Requisito Associado | RF-005 / RF006- A aplicação deve permitir que o usuário visualize  seu  perfil após o cadastro|
+|Link do vídeo do teste realizado: |https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161658408/dc849011-66b9-4f90-a7f8-84432068087c| 
 
 |*Caso de Teste*                                 |*CT02 - Criar conta parte 2*                                        |
 |---|---|
@@ -97,6 +110,7 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 |---------------|----------------------|
 | 1             | Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando. |
 | 2             | Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço. |
+| 3             | Você é uma pessoa que acaba de se cadastrar no site "musicmatch". Seu perfil é exibido com as informações esperadas. |
 
 
 
@@ -133,6 +147,22 @@ Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,0
     Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
     redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
     tanto na hora da pesquisa, quanto depois dela, nos resultados.
+    Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço.
+
+    
+Cenário 3: Você é uma pessoa que acaba de se cadastrar no site "musicmatch". Seu perfil é exibido com as informações esperadas.
+
+| Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
+|---------|-----------------|----------------------|---------------------------------|
+| 1       | SIM             | 5                    |    3   segundos                         |
+| 2       | SIM             | 3                    |    5  segundos                          |
+| 3       | SIM             | 4                    |    3     segundos                       |
+|  |  |  |  |
+| **Média**     | 100%           |       4         |   3,66                              |
+| **Tempo para conclusão pelo especialista** | --- | - | ------------ |
+
+
+    Comentários dos usuários: melhorar pesquisa 
 
 ## Avaliação dos Testes de Usabilidade
 
