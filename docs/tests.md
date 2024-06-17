@@ -33,7 +33,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro
 **Resultado obtido** | Sucesso
 
-**Caso de Teste** | *CT01 - Perfil dinamico*
+**Caso de Teste** | *CT02 - Perfil dinamico*
  :--------------: | ------------
 **Procedimento**  | 1) Acesse o endereço */pesquisa-usuario.html* <br> 2) Digite o nome de usuario <br> 3) Clique em "Pesquisar".
 **Requisitos associados** | RF-005 - RF-006 
@@ -41,13 +41,30 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Dados de entrada** | nome de usuário
 **Resultado obtido** | Sucesso
 
-**Caso de Teste** | **CT02 - Criar conta parte 2**
+**Caso de Teste** | **CT03 - Criar conta parte 2**
  :--------------: | ------------
 **Procedimento**  | 1) Preencha todos os campos do formulário <br> 2) Clique no botão "Criar conta" <br> 
 **Requisitos associados** | RF-001
 **Resultado esperado** | Usuário cadastrado
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro
 **Resultado obtido** | Sucesso
+
+**Caso de Teste** | **CT04 - Pesquisar algum item cadastrado**
+ :--------------: | ------------
+**Procedimento**  | 1) Digitar no mínimo 3 caracteres na barra de pesquisa <br> 2) Clicar no ícone da lupa ao lado <br>
+**Requisitos associados** | RF-004
+**Resultado esperado** | Pesquisa dentro do ".json" com respostas referêntes nos 3 filtros. Podendo ser "Músicas", "Álbuns" ou "Artistas".
+**Dados de entrada** | Inserção de no mínimo 3 caracteres na barra de pesquisa
+**Resultado obtido** | Sucesso
+
+**Caso de Teste** | **CT05 - Enviar um feedback para a equipe**
+ :--------------: | ------------
+**Procedimento**  | 1) Preencha todos os campos do formulário <br> 2) Clique no botão "Enviar" <br> 
+**Requisitos associados** | RF-012
+**Resultado esperado** | Pop-up de confirmação de envio
+**Dados de entrada** | Inserção de dados válidos no formulário de feedback
+**Resultado obtido** | Sucesso
+
 
 ## Registro dos Testes de Software
 
@@ -58,15 +75,26 @@ Esta seção deve apresentar o relatório com as evidências dos testes de softw
 |Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
 |Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
 
-|*Caso de Teste*                                 |*CT01 - Perfil dinamico*                                         |
+|*Caso de Teste*                                 |*CT02 - Perfil dinamico*                                         |
 |---|---|
 |Requisito Associado | RF-005 / RF006- A aplicação deve permitir que o usuário visualize  seu  perfil após o cadastro|
 |Link do vídeo do teste realizado: |https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161658408/dc849011-66b9-4f90-a7f8-84432068087c| 
 
-|*Caso de Teste*                                 |*CT02 - Criar conta parte 2*                                        |
+|*Caso de Teste*                                 |*CT03 - Criar conta parte 2*                                        |
 |---|---|
 |Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
 |Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+
+|*Caso de Teste*                                 |*CT04 - Pesquisar algum item cadastrado*                                        |
+|---|---|
+|Requisito Associado | RF-004 - Permitir pesquisa de artistas, álbuns e músicas|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/18iEqr003SCxq8_zJcXXN7oxHF7v9uvwh/view?usp=sharing | 
+
+|*Caso de Teste*                                 |*CT05 - Enviar um feedback para a equipe*                                        |
+|---|---|
+|Requisito Associado | RF-012 - Disponibilizar página com descritivo sobre informações dos integrantes do grupo e motivação para o projeto|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1_4ST4iyytHZYYyGQsNg4F4GXPYkNe8vj/view?usp=sharing | 
+
 
 
 ## Avaliação dos Testes de Software
@@ -108,46 +136,37 @@ Apresente os cenários de testes utilizados na realização dos testes de usabil
 
 | Nº do Cenário | Descrição do cenário |
 |---------------|----------------------|
-| 1             | Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando. |
-| 2             | Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço. |
+| 1             | Você é uma pessoa que deseja pesquisar um artista, música ou álbum e que, após pesquisar,  possa entrar diretamente no item ao clicar em algum resultado. |
+| 2             | Você é uma pessoa que deseja enviar um feedback para a equipe criadora do site para alguma avaliação ou sugestão. |
 | 3             | Você é uma pessoa que acaba de se cadastrar no site "musicmatch". Seu perfil é exibido com as informações esperadas. |
 
 
 
 ## Registro de Testes de Usabilidade
 
-Cenário 1: Você é uma pessoa que deseja comprar um iphone. Encontre no site um iphone e veja detalhes de localização e contato da loja que anunciando.
+Cenário 1: Você é uma pessoa que deseja pesquisar um artista, música ou álbum e que, após pesquisar,  possa entrar diretamente no item ao clicar em algum resultado.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 27.87 segundos                  |
-| 2       | SIM             | 5                    | 17.11 segundos                  |
-| 3       | SIM             | 5                    | 39.09 segundos                  |
+| 1       | SIM             | 5                    | 10.03 segundos                  |
+| 2       | SIM             | 5                    | 12.15 segundos                  |
+| 3       | SIM             | 5                    | 7.52 segundos                  |
 |  |  |  |  |
-| **Média**     | 100%           | 5                | 28.02 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 8.66 segundos |
+| **Média**     | 100%           | 5                | 9.90 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 5.86 segundos |
 
+    
 
-    Comentários dos usuários: Achei o site muito bom e intuitivo. 
-    Não tive dificuldades e acho que ficou bem intuitivo.
-
-
-Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço.
+Cenário 2: Você é uma pessoa que deseja enviar um feedback para a equipe criadora do site para alguma avaliação ou sugestão.
 
 | Usuário | Taxa de sucesso | Satisfação subjetiva | Tempo para conclusão do cenário |
 |---------|-----------------|----------------------|---------------------------------|
-| 1       | SIM             | 5                    | 22.54 segundos                          |
-| 2       | SIM             | 5                    | 31.42 segundos                          |
-| 3       | SIM             | 4                    | 36.21 segundos                          |
+| 1       | SIM             | 5                    | 20.23 segundos                          |
+| 2       | SIM             | 5                    | 28.20 segundos                          |
+| 3       | SIM             | 4                    | 18.31 segundos                          |
 |  |  |  |  |
-| **Média**     | 100%           | 4.67                | 30.05 segundos                           |
-| **Tempo para conclusão pelo especialista** | SIM | 5 | 13.57 segundos |
-
-
-    Comentários dos usuários: O site é fácil de acessar, mas algumas páginas poderiam 
-    redirecionar a gente automaticamente para outras. Senti a falta de mais opções de filtros, 
-    tanto na hora da pesquisa, quanto depois dela, nos resultados.
-    Cenário 2: Você é uma pessoa que deseja comprar um smartphone até R$ 2.000,00. Encontre no site smartphone's nessa faixa de preço.
+| **Média**     | 100%           | 4.67                | 22.25 segundos                           |
+| **Tempo para conclusão pelo especialista** | SIM | 5 | 15.77 segundos |
 
     
 Cenário 3: Você é uma pessoa que acaba de se cadastrar no site "musicmatch". Seu perfil é exibido com as informações esperadas.
