@@ -1,0 +1,26 @@
+window.onload = function() {
+    const Music = {
+        "Music": "No reply",
+        "Cantor_Banda": "The Beatles",
+        "Album": "Álbum: Beatles For Scale",
+        "Data_lancamento": "Data: 04/12/1964"
+    }
+    
+    console.log(Music)
+    console.log(Music.Album)
+    
+    let tagMusic = document.querySelector("#Music")
+    tagMusic.innerHTML = Music.Music
+
+    let cantor = document.querySelector("#Cantor_Banda")
+    cantor.innerHTML = Music.Cantor_Banda
+
+    let album = document.querySelector("#Album")
+    album.innerHTML = Music.Album
+
+    let data = document.querySelector("#Data_lancamento")
+    data.innerHTML = Music.Data_lancamento
+  };
+
+ 
+
