@@ -70,20 +70,20 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 
 Esta seção deve apresentar o relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado no plano de testes pré-definido. Documente cada caso de teste apresentando um vídeo ou animação que comprove o funcionamento da funcionalidade. Veja os exemplos a seguir.
 
-|*Caso de Teste*                                 |*CT01 - Criar conta parte 1*                                         |
+|*Caso de Teste*                                 |*CT01 - Criar conta*                                         |
 |---|---|
 |Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
-|Link do vídeo do teste realizado: | https://1drv.ms/u/s!AhD2JqpOUvJChapRtRSQ9vPzbNLwGA?e=mxZs6t| 
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1otxgOo8cwvhaUgfGtR1Hsg0GRy8RpZYE/view?usp=drive_link
 
 |*Caso de Teste*                                 |*CT02 - Perfil dinamico*                                         |
 |---|---|
 |Requisito Associado | RF-005 / RF006- A aplicação deve permitir que o usuário visualize  seu  perfil após o cadastro|
 |Link do vídeo do teste realizado: |https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe1-t5-musicmatch/assets/161658408/dc849011-66b9-4f90-a7f8-84432068087c| 
 
-|*Caso de Teste*                                 |*CT03 - Criar conta parte 2*                                        |
+|*Caso de Teste*                                 |*CT03 - Fazer login*                                        |
 |---|---|
-|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários criem uma conta e gerenciem seu cadastro|
-|Link do vídeo do teste realizado: | https://1drv.ms/v/s!AhD2JqpOUvJChapQ8CPXL-TI_A7iVg?e=spD3Ar | 
+|Requisito Associado | RF-001 - A aplicação deve permitir que os usuários façam login em suas contas|
+|Link do vídeo do teste realizado: | https://drive.google.com/file/d/1otxgOo8cwvhaUgfGtR1Hsg0GRy8RpZYE/view?usp=drive_link | 
 
 |*Caso de Teste*                                 |*CT04 - Pesquisar algum item cadastrado*                                        |
 |---|---|
