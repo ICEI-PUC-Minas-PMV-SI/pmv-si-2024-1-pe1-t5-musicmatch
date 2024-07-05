@@ -23,7 +23,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Integrantes
 
 * Ester Alice Souza Leão
-* Gustavo Costa Negro Souza
 * João Paulo Candido Faria Vieira
 * Raphael Silva Ramalho
 * Vitor Casimiro Madureira Souza
